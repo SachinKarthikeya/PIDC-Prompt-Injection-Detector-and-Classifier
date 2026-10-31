@@ -1,6 +1,6 @@
 # 🦠 PIDC - Prompt Injection Detector and Classifier
 
-An efficient NLP based detection system system which analyzes user prompts/texts to detect any prompt injection/jailbreak/system override attempts that can be performed on Large Language Models. This can help systems to detect any malicious attacks that happen on LLMs and take necessary measures before the data gets compromised.
+An efficient NLP based detection system which analyzes user prompts/texts to detect any prompt injection/jailbreak/system override attempts that can be performed on Large Language Models. This can help systems to detect any malicious attacks that happen on LLMs and take necessary measures before the data gets compromised.
 
 ## 🚀 Features
 
